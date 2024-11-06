@@ -1,18 +1,30 @@
-## Getting Started
+# 🌳 Visualizador de Árboles AVL
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 📚 Descripción del Proyecto
 
-## Folder Structure
+Este es un visualizador de árboles AVL creado con Java 8 y utilizando Java Swing. 🖥️ Proporciona una interfaz gráfica para crear, editar y visualizar árboles AVL en la pantalla. 🖼️ La aplicación realiza automáticamente el equilibrio del árbol después de inserciones o eliminaciones. 🔀
 
-The workspace contains two folders by default, where:
+## 💡 Características Principales
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- 🔄 Creación visual de árboles AVL
+- ✏️ Edición existentes al agregar o eliminar nodos
+- 👁️ Visualización en tiempo real de la estructura del árbol
+- ⚖️ Equilibrio automático después de modificaciones
+- 📊 Displai claro de valores de nodos y altura del árbol
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🛠️ Requisitos previos
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Java Development Kit (JDK) 8 o superior
+- Java Runtime Environment (JRE) 8 o superior
 
-## Dependency Management
+## 💾 Instalación
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Clona el repositorio localmente
+2. Navega al directorio del proyecto
+3. Abre el proyecto en tu IDE preferido o ejecuta la clase principal directamente con Java. 🚀
+
+
+## 📚 Contexto Académico
+
+Este proyecto fue desarrollado como parte de la asignatura de "Estructuras de Datos" en la carrera de Ingeniería Informática en mi universidad. 🎓 El objetivo era crear una herramienta visual que permitiera interactuar con árboles AVL, enfocándose en su creación, edición y visualización automática. 🖥️
+
